@@ -1,9 +1,51 @@
 .artigos{
 
 display: flex;  
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .homepage{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
+}
+
+
+
+.button1{
+
+    background-color: rgb(12, 166, 255);
+    color: rgb(0, 0, 0);
+    border-radius: 15px;
+    
+    
+      
+}
+
+.button2{
+
+    background-color: rgb(12, 166, 255);
+    color: rgb(0, 0, 0);
+    border-radius: 15px;
+    margin: 10px;
+   
+   
+}
+
+.button3{
+
+    background-color: rgb(12, 166, 255);
+    color: rgb(0, 0, 0);
+    border-radius: 15px;
+    margin: 10px;
+    
+
+}
+ 
+.buttonVoltar{
+    background-color: rgb(12, 166, 255);
+    color: rgb(0, 0, 0);
+    border-radius: 15px;
+    margin: 10px;
+    
+    
 }

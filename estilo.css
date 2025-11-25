@@ -1,12 +1,21 @@
+.logo{
+    width: 150px;
+}
+
+
 .artigos{
 
 display: flex;  
 font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
 }
 
 .homepage{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
+    background-color: rgb(252, 252, 252);
+    border-radius: 20px;
+
 }
 
 
@@ -16,6 +25,7 @@ font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: rgb(12, 166, 255);
     color: rgb(0, 0, 0);
     border-radius: 15px;
+    margin: 10px;
     
     
       
@@ -47,5 +57,9 @@ font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     border-radius: 15px;
     margin: 10px;
     
-    
 }
+
+body{
+    background-color: rgb(165, 231, 252);
+}
+

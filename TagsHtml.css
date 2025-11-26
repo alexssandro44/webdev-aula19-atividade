@@ -1,0 +1,19 @@
+.ListadeTags{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+
+}
+
+body{
+     background-color: rgb(187, 213, 247);
+}
+
+.buttonVoltar{
+    background-color: rgb(12, 166, 255);
+    color: rgb(0, 0, 0);
+    border-radius: 15px;
+    margin: 10px;
+    
+}
+
+

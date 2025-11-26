@@ -8,7 +8,26 @@
 display: flex;  
 font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
+
 }
+
+.article-html{
+
+    text-align: center;
+
+}
+
+
+.article-css{
+text-align: center;
+}
+
+.article-js{
+text-align: center;
+
+}
+
+
 
 .homepage{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;

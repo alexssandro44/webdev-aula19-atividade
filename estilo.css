@@ -60,7 +60,7 @@ transition: 0.3s ease
 /* ---------------------------------------------------------------------------------------------------------------------*/
 
 .homepage{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; /* muda a formataçãi das letras */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; /* muda a formatação das letras */
     text-align: center;
     background-color: rgb(252, 252, 252); /* muda a cor de fundo */
     border-radius: 20px; /* arredonda a borda dos elementos */

@@ -3,6 +3,7 @@
 }
 
 
+/* classe com o conteudo de todos os artigos */
 .artigos{
 
 display: flex;  
@@ -11,50 +12,44 @@ padding: 10px;
 
 }
 
+/* ---------------------------------------------------------------------------------------------------------------------*/
 
-.article-html{
-    
+/*  criei a animação ao passar o cursor do mouse por cima do artigo */
+.article-html {
 text-align: center;
-
 border-radius: 15px;       
 transition: 0.3s ease; /* tempo e suavidade da animação */
 
-
 }
 
+/* Hover serve para aplicar estilos a um elemento HTML somente quando o cursor do mouse passa sobre ele */
 .article-html:hover{
     transform: scale(1.1); /* aumenta */
     background-color: rgb(19, 142, 241); /* muda de cor */
 }
 
 
-
+/* ---------------------------------------------------------------------------------------------------------------------*/
 
 .article-css{
 text-align: center;
-
-
-
 border-radius: 15px;  
-transition: 0.3s ease
+transition: 0.3s ease; /* tempo e suavidade da animação */
 
 }
 
 .article-css:hover{
-    transform: scale(1.1);
-    background-color: rgb(19, 142, 241);
+    transform: scale(1.1); /* aumenta */
+    background-color: rgb(19, 142, 241); /* muda de cor */
 }
 
+/* ---------------------------------------------------------------------------------------------------------------------*/
 
 
 .article-js{
 text-align: center;
-
-
-
 border-radius: 15px;  
 transition: 0.3s ease
-
 }
 
 .article-js:hover{
@@ -62,18 +57,16 @@ transition: 0.3s ease
     background-color: rgb(19, 142, 241);
 }
 
+/* ---------------------------------------------------------------------------------------------------------------------*/
 
 .homepage{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; /* muda a formataçãi das letras */
     text-align: center;
-    background-color: rgb(252, 252, 252);
-    border-radius: 20px;
-    margin-bottom: 45px;
-   
-   
-
-
-    
+    background-color: rgb(252, 252, 252); /* muda a cor de fundo */
+    border-radius: 20px; /* arredonda a borda dos elementos */
+    margin-bottom: 45px; /* margem do espaçamento inferior */
+    margin: 10px; /* margem de todos os lados dos elementos */
+       
 }
 
 
@@ -104,11 +97,11 @@ transition: 0.3s ease
     background-color: rgb(12, 166, 255);
     color: rgb(0, 0, 0);
     border-radius: 15px;
-    margin: 10px;
+   
     
-
 }
  
+
 .buttonVoltar{
     background-color: rgb(12, 166, 255);
     color: rgb(0, 0, 0);
